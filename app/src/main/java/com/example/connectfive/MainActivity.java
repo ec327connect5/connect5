@@ -61,7 +61,6 @@ public class MainActivity extends AppCompatActivity {
             LinearLayout linBoardGame = findViewById(R.id.linBoardGame);
 
 
-
         }
 
     private float ScreenWidth(){
